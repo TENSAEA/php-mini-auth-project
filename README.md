@@ -1,3 +1,12 @@
+
+
+
+
+
+https://github.com/TENSAEA/php-mini-auth-project/assets/106927635/320077ff-769c-46da-bd95-228ed6b879ea
+
+
+
 # Project Title
 
 A simple PHP User Dashboard
